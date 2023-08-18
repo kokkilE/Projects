@@ -19,4 +19,4 @@
 
 | 프로젝트 | 기간 | 설명 |
 | :--: | :--: | :--: |
-| [워크북](https://github.com/kokkilE/ios-workbook) | 23.07.10 ~ 진행 중 | 나만의 문제집을 만들고 관리하는 앱입니다. |
+| [워크북<br>(오답노트)](https://github.com/kokkilE/ios-work-book) | 23.07.17 ~ 진행 중 | 나만의 문제집을 만들고 관리하는 앱입니다. |
