@@ -1,3 +1,9 @@
+# 개인 프로젝트
+
+| 프로젝트 | 기간 | 설명 |
+| :--: | :--: | :--: |
+| [캠핑다이어리](https://github.com/kokkilE/ios-camping-diary) | 23.11.06 ~ 23.11.21 | 개인 |
+
 # 야곰아카데미 커리어 스타터
 > 기간: 2022.12.19 ~ 2022.06.16
 
@@ -14,9 +20,3 @@
 | [쥬스 메이커](https://github.com/kokkilE/ios-juice-maker) | 23.01.02 ~ 23.01.20 | 2인 팀 |
 | [묵찌빠 게임](https://github.com/kokkilE/ios-rock-paper-scissors/blob/kokkilE) | 22.12.26 ~ 22.12.30 | 2인 팀 |
 | [숫자 야구](https://github.com/kokkilE/ios-number-baseball/blob/ic_8_rhode8) | 22.12.19 ~ 22.12.23 | 2인 팀 |
-
-# 개인 프로젝트
-
-| 프로젝트 | 기간 | 설명 |
-| :--: | :--: | :--: |
-| [캠핑다이어리](https://github.com/kokkilE/ios-camping-diary) | 23.11.06 ~ 23.11.21 | 개인 |
